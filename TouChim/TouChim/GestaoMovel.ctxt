@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GestaoMovel
+comment1.params=telemovel
+comment1.target=GestaoMovel(Telemovel)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=contacto
+comment2.target=void\ adicionarContacto(Contacto)
+comment3.params=numeroDestinatario\ mensagem
+comment3.target=void\ enviarMensagem(int,\ java.lang.String)
+comment4.params=numeroChamada
+comment4.target=void\ efetuarChamada(int)
+comment5.params=
+comment5.target=java.util.List\ getContactos()
+comment6.params=
+comment6.target=java.lang.String\ getModoFuncionamento()
+comment7.params=fatura
+comment7.target=void\ adicionarFatura(Fatura)
+comment8.params=
+comment8.target=double\ getValorTotalFaturas()
+comment9.params=
+comment9.target=java.util.List\ getFaturas()
+numComments=11

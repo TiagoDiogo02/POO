@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SMS
+comment1.params=numeroOrigem\ numeroDestino\ tamanho\ texto
+comment1.target=SMS(int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getTamanho()
+comment3.params=
+comment3.target=java.lang.String\ getTexto()
+numComments=4

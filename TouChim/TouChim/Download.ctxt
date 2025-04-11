@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Download
+comment1.params=numeroOrigem\ numeroDestino\ tamanho\ duracao
+comment1.target=Download(int,\ int,\ int,\ double)
+comment2.params=
+comment2.target=int\ getTamanho()
+comment3.params=
+comment3.target=double\ getDuracao()
+numComments=4

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Comunicacao
+comment1.params=numeros
+comment1.target=void\ setNumerosDeDispositivos(java.util.Set)
+comment2.params=numeroOrigem\ numeroDestino
+comment2.target=Comunicacao(int,\ int)
+comment3.params=numero\ comunicacao\ mapa
+comment3.target=void\ registarComunicacaoPorNumero(int,\ Comunicacao,\ java.util.Map)
+comment4.params=
+comment4.target=int\ getNumeroOrigem()
+comment5.params=
+comment5.target=int\ getNumeroDestino()
+comment6.params=numeroDispositivo
+comment6.target=java.util.List\ getComunicacoesFeitasPorDispositivo(int)
+comment7.params=numeroDispositivo
+comment7.target=java.util.List\ getComunicacoesRecebidasPorDispositivo(int)
+comment8.params=numero\ valor
+comment8.target=void\ registrarValorComunicacao(int,\ double)
+comment9.params=
+comment9.target=java.util.Map\ getValorComunicacoesPorDispositivoCompleto()
+numComments=10

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Telemovel
+comment1.params=numero\ modoFuncionamento
+comment1.target=Telemovel(int,\ java.lang.String)
+comment2.params=nome\ numero
+comment2.target=void\ adicionarContacto(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ listarContactos()
+comment4.params=nome
+comment4.target=int\ getNumeroDoContacto(java.lang.String)
+comment5.params=numeroDestinatario\ mensagem
+comment5.target=void\ enviarMensagem(int,\ java.lang.String)
+comment6.params=numeroChamada
+comment6.target=void\ efetuarChamada(int)
+numComments=7

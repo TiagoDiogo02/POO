@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Dispositivo
+comment1.params=numero\ modoFuncionamento
+comment1.target=Dispositivo(int,\ java.lang.String)
+comment2.params=modo
+comment2.target=void\ setModoFuncionamento(java.lang.String)
+comment3.params=numero
+comment3.target=void\ setnumero(int)
+comment4.params=
+comment4.target=java.util.Set\ getnumdisp()
+comment5.params=
+comment5.target=int\ getNumero()
+comment6.params=
+comment6.target=java.lang.String\ getModoFuncionamento()
+comment7.params=
+comment7.target=java.util.List\ getDispositivos5G()
+numComments=8
